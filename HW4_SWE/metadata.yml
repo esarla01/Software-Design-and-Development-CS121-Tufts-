@@ -1,0 +1,12 @@
+---
+:id: 150595338
+:submitters:
+- :name: Tansu Erin Sarlak
+  :email: tansu.sarlak@tufts.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-23 01:51:01.461254000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-22 17:51:01.461254000 Z
+:status: processed
+:score: 85.0
