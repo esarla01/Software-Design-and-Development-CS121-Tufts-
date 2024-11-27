@@ -1,0 +1,5 @@
+# Project 04: Project 04: Java on Rails - Web Server
+
+In this project, you'll implement a web server using a model-view-controller (MVC) architecture, called jrails, inspired by Ruby on Rails. Since it's built in Java, the framework will be more cumbersome but only cover a small subset of a full web server framework.
+
+The MVC framework source code is in the jrails/ directory. You'll edit this code, which compiles into jrails.jar for use in building web apps.
