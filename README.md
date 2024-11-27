@@ -19,7 +19,7 @@ This repository contains the projects completed as part of a Software Engineerin
 ### Project 4: Java on Rails - Web Server
 - **Description**: Built a simple web server in Java that supports basic web requests and responses, simulating the functionality of frameworks like Ruby on Rails.
 - **Key Concepts**: Web Servers, MVC Arhitecture, HTTP
-- 
+  
 ### Project 5: Concurrent MBTA Simulator (Threading)
 - **Description**: Implemented a concurrent MBTA simulator that models the operation of public transportation using Java threads to simulate parallel processing.
 - **Key Concepts**: Concurrency, Threads, Synchronization, Java
