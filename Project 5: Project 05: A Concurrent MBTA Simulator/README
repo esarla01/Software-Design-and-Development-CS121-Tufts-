@@ -1,0 +1,22 @@
+# Project 05: A Concurrent MBTA Simulator
+
+In this project, you will implement a multi-threaded simulation of the T. In your simulation, passengers will ride trains between stations, boarding and deboarding (getting on and off) to complete their journey. Your simulation will generate a log showing the movements of passengers and trains, for example:
+
+----------------------------------------------------------------
+
+$ ./sim sample.json
+Passenger Alice boards red at Davis
+Passenger Bob boards green at Park
+Train green moves from Park to Government Center
+Train red moves from Davis to Harvard
+Train red moves from Harvard to Kendall
+Train green moves from Government Center to North Station
+Train green moves from North Station to Lechmere
+Train green moves from Lechmere to East Sommerville
+Passenger Alice deboards red at Kendall
+Train green moves from East Sommerville to Tufts
+Passenger Bob deboards green at Tufts
+
+----------------------------------------------------------------
+
+Your simulation will be multi-threaded, with a thread for each passenger and each train. That means if you run the simulation multiple times, you may get different results depending on the scheduler! To make testing and debugging easier, you will also build a verifier that checks that the simulation result is sensible, e.g., passengers can only deboard trains at the stations the trains are at, trains must move along their lines in sequence, etc.

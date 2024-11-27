@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="154151542">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/154151542/hamcrest-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/154151542/gson-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/154151542/junit-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="p5-mbta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hamcrest-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
