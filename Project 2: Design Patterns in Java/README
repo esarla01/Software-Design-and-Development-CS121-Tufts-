@@ -1,6 +1,6 @@
 
 # Project 02: Design Patterns in Java
 
-In this project, you will implement a chess game simulator. Your simulator will take as input a file that describes the initial locations of pieces on the board and a series of moves of those pieces. Your simulator will then set up the board and execute those moves, checking that all the moves are legal and, at the end, printing the state of the game board.
+In this project, I implemented a chess game simulator. My simulator will take as input a file that describes the initial locations of pieces on the board and a series of moves of those pieces. It will then set up the board and execute those moves, checking that all the moves are legal and, at the end, printing the state of the game board.
 
-The real goal of implementing this project, however, is to gain experience with design patterns. More specifically, as part of this project you will implement the following patterns: Singleton, Factory, External Dependency Injection, Observer, and (Internal) Iterator.
+The real goal of implementing this project, however, is to gain experience with design patterns. More specifically, as part of this project you I tried to implement the following patterns: Singleton, Factory, External Dependency Injection, Observer, and (Internal) Iterator.
