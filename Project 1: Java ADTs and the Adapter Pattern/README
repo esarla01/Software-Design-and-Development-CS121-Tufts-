@@ -1,6 +1,6 @@
 # Project 01: Java ADTs and the Adapter Pattern
 
-This project introduces you to programming in Java by developing an abstract data type (ADT) for graphs and adapting it to a different interface using the adapter pattern. The implementation involves two main parts:
+This project introduced me to programming in Java by developing an abstract data type (ADT) for graphs and adapting it to a different interface using the adapter pattern. The implementation involves two main parts:
 
 1. A graph representation using adjacency lists.
 
